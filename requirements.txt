@@ -1,0 +1,33 @@
+pandas==2.0.3
+python-dotenv==1.0.1
+pinecone==5.3.1
+firebase-admin==6.0.1
+google-cloud-storage==2.18.2
+mlxtend==0.23.1
+openai==1.50.2
+scikit-learn
+
+
+# langchain
+# langchain_community
+# langchain-google-genai
+
+
+# langchain_experimental
+# sentence-transformers
+
+# langchainhub
+# pypdf
+# rapidocr-onnxruntime
+
+# langchain
+# langchain_community
+# langchain-google-genai
+# python-dotenv
+# streamlit
+# langchain_experimental
+# sentence-transformers
+# langchain_chroma
+# langchainhub
+# pypdf
+# rapidocr-onnxruntime
